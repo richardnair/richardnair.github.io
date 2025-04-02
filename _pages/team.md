@@ -72,8 +72,9 @@ permalink: /team/
 
 
 
-<!--
 ## Master and Bachelor Students
+
+We host a number of Master and Bachelor students every year. Previous topics have included root exudates, endophytes and root phenotypes, sporocarp phenology and plant effects on weathering. Please get in touch if you are interested in a student project.
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -126,7 +127,33 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Former visitors, BSc/ MSc students
+<div class="row">
 
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Master students</h4>
+{% for member in site.data.alumni_msc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+
+
+<!--
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -160,29 +187,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 </div>
 
