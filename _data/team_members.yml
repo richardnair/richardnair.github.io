@@ -13,20 +13,22 @@
   photo: duck.jpg
   info: PhD Student (2025-, Root Dynamics) 
   number_educ: 1
-  education1: Mbiol (Genetics) University of Leads
+  education1: Mbiol Genetics (University of Leads)
 
 - name: Asrit Ganti 
-  photo: duck.jpg
+  photo: asrit.png
   info:  Research Assistant (Technology Specialist)
   email: gantia[@]tcd.ie
-  number_educ: 1
+  number_educ: 1 
+  education1: MEng Electronic Information/Computional Engineering (Trinity College Dublin)
+  education2: BSc Physics (Shiv Nadar University)
 
 - name: Nadja Burkart
-  photo: duck.jpg
+  photo: nadja.png
   info:  Research Assistant (Belowground Ecology Specialist)
   email: nburkart[@]tcd.ie
   number_educ: 1
-  education1: BSc (Botany) Trinity College Dublin, 2024
+  education1: BSc Botany (Trinity College Dublin)
 
 - name: "This could be you !"
   photo: duck.jpg
