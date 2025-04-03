@@ -43,7 +43,7 @@ Richard is a collaborator on the TERRAFORM project.
 Richard is a working group co-lead in WG4 of the project. 
 
 **Other Collaborations**
-The PSF group also collaborates with engineering teaching. In particular, we have suponsored/supported [SUGAR NETWORK](https:/https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
+The PSF group also collaborates with engineering teaching. In particular, we have suponsored/supported [SUGAR NETWORK](https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
 
 # Student projects
 The PSF Lab hosts student projects from both Trinity College Dublin and elsewhere.
