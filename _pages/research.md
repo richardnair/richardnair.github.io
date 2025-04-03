@@ -30,6 +30,7 @@ We are taking a stakeholder-focused approach to deliver an approachable technica
 RootCheck is led by Richard, with collaborators Saoirse Tracy (UCD), Aoife Gowan (UCD) and Gillian Young (AFBI Newgrange),
 *RootCheck is funded via the SFI National Challenge Fund Future Food Systems call.*
 
+
 *Members of the PSF Group are also involved in the following projects:* 
 
 **TERRAFORM:** 
@@ -40,6 +41,9 @@ Richard is a collaborator on the TERRAFORM project.
 **CLEANFOREST**
 [CLEANFOREST: Joint effects of CLimate Extremes and Atmospheric depositioN on European FORESTs](https://cleanforest.eu/) (PI: Rosella Guerrieri, University Bologna) is an EU COST Action bringing together researchers across the EU and beyond to work on forest responses to global change.
 Richard is a working group co-lead in WG4 of the project. 
+
+**Other Collaborations**
+The PSF group also collaborates with engineering teaching. In particular, we have suponsored/supported [SUGAR NETWORK](https:/https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
 
 # Student projects
 The PSF Lab hosts student projects from both Trinity College Dublin and elsewhere.

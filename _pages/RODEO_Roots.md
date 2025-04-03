@@ -12,10 +12,10 @@ Phenology is the way living things change through the seasons. For plants, pheno
 We usually study plant phenology using cameras or satellites collecting sequences of images. However, around 1/3 of CO2 taken up is transported belowground to root systems. Roots are difficult to study as soil is opaque. Other scientists have found that roots don’t grow at the same time as leaves, but we don’t understand why in a general way that can be used in predictions. 
 In RODEO, we work in natural ecosystems and collect sequences of images of roots using buried robotic cameras. Using artificial intelligence (AI) for image analysis, I will produce datasets of daily root growth. We are planning to use new data to understand how roots respond to seasons and climate and understand how to predict root growth patterns. We study the controls on this under field conditions. This will help us forecast, adapt to, and manage climate change.
 
-** Progress
+** Progress **
 
 We are currently in phase 1 of RODEO, where we are building new instruments. 
 
-** Team
+** Team **
 
 The main RODEO team is currently Richard, Phoebe, and Asrit. 
