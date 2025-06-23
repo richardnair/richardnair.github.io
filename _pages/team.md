@@ -127,7 +127,7 @@ We host a number of Master and Bachelor students every year. Previous topics hav
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former team, visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -153,7 +153,6 @@ We host a number of Master and Bachelor students every year. Previous topics hav
 
 
 
-<!--
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -187,9 +186,8 @@ We host a number of Master and Bachelor students every year. Previous topics hav
 </div>
 {% endif %}
 
-
 </div>
 
-
+<!---
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
