@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Plant Soil Function Lab
+title: Plant Soil Biogeochemistry Group 
 email: richardnair@tcd.ie
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Plant Soil Function lab Group at Trinity College Dublin.
+  Website of the Plant Soil Biogeochemistry lab Group at Trinity College Dublin.
 baseurl: ""
 url: ""
 
