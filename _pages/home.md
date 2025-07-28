@@ -46,7 +46,7 @@ permalink: /
 </div>
 
 
-The **Plant-Soil Biogeochemistry ** group at Trinity College Dublin is an interdisciplinary research group interested in the bidirectional interactions between plants and the changing global environment.
+The **Plant-Soil Biogeochemistry** group at Trinity College Dublin is an interdisciplinary research group interested in the bidirectional interactions between plants and the changing global environment.
 
 We focus on how plants work as whole organisms, above and belowground, and intimately coupled into the soil. 
 

@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "PSF Group at Trinity College Dublin."
+excerpt: "PSB Group at Trinity College Dublin."
 sitemap: false
 permalink: /allnews.html
 ---
