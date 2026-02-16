@@ -2,7 +2,7 @@
   photo: richard_blackpines.png
   info:  Group Leader (Assistant Professor in Plant Soil Ecology & Research Ireland Royal Society University Research Fellow)
   email: richard.nair[@]tcd.ie
-  number_educ: 5
+  number_educ: 4
   education1: Marie Skldowska-Curie Individual Fellow, Max Planck Institute for Biogeochemistry 2017-2019
   education2: Scientist, Max Planck Institute for Biogeochemistry 2015-2022
   education3: PhD, School of Geosciences (University of Edinburgh), 2015
@@ -12,6 +12,7 @@
 - name: Phoebe Dibben-Dean
   photo: phoebe.jpeg
   info: PhD Student (2025-, Root Dynamics) 
+  email: dibbendp[@]tcd.ie
   number_educ: 1
   education1: Mbiol Genetics (University of Leads)
 
@@ -25,7 +26,8 @@
 
 - name: Ian Palk
   photo: ian.jpg
-  info: PhD Student (2025-, Environmental Technology / Root Respiration)  
+  info: PhD Student (2025-, Environmental Technology / Soil Respiration)  
+  email: palkia[@]tcd.ie
   number_educ: 1
   education1: BA Earth and Planetary Sciences (Harvard University)
   education2:
@@ -34,6 +36,7 @@
 - name: "Jason Schevelier"
   photo: jason.jpg
   info: PhD Student (2025-, AI methods for root imagery)  
+  email: schevelij[@]tcd.ie
   number_educ: 1
   education1: MSc  Algorithmics & Intelligent Systems (University of Caen)
   education2: BSc  Computer Science (University of Caen)
@@ -42,6 +45,7 @@
 - name: "Ryan Brennan"
   photo: duck_purplespots.jpg
   info: Research Assistant (2025 - ). 
+  email: rybrenna[@]tcd.ie
   number_educ: 1
   education1: BSc Botany (Trinity College Dublin)
   education2:
