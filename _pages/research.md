@@ -27,7 +27,8 @@ SoilSymphony is an exciting new project investigating control of soil respiratio
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
-*Members of the PSF Group are also involved in the following projects:* 
+
+*Members of the PSB Group are also involved in the following projects:* 
 
 **DECARB-AI**
 We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andrew Parnell, UCD) for Asrit's research.
@@ -36,7 +37,7 @@ We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andr
 
 **TERRAFORM:** 
 The ERC-funded [TERRAFORM](https://plantclimatelab.ie/terraform/) project (PI:Jenny McElwain, TCD) investigates how plant life has shaped Earth's habitability over millions of years, examining the evolution of plant traits and their impact on large-scale processes like the hydrological cycle and weathering over the past 300 million years. 
-Through a multidisciplinary approach encompassing ecology, paleo-Earth experiments, climate modeling, and fossil plant analysis, TERRAFORM aims to quantify plants' influence on carbon, nutrient, and hydrological cycles throughout history
+Through a multidisciplinary approach encompassing ecology, paleo-Earth experiments, climate modeling, and fossil plant analysis, TERRAFORM aims to quantify plants' influence on carbon, nutrient, and hydrological cycles throughout palaeotime.
 Richard is a collaborator on the TERRAFORM project.
 
 **CLEANFOREST**
@@ -52,12 +53,11 @@ RootCheck was led Richard, with collaborators Saoirse Tracy (UCD), Aoife Gowan (
 *RootCheck was funded via the SFI National Challenge Fund Future Food Systems call.* \
 *Team Members: Richard, Asrit, Nadja*
 
-
 **Other Collaborations**
 The PSB group also collaborates with engineering teaching. In particular, we have suponsored/supported [SUGAR NETWORK](https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
 
 # Student projects
-The PSB Lab hosts student projects from both Trinity College Dublin and elsewhere.
+The PSB Group hosts student projects from both Trinity College Dublin and elsewhere.
 Projects which students have worked on include measuring root exudates, linking endophyte infection to root traits, sporocarp phenology, and plant effects on weathering.
 Please get in touch if you are interested in a project hosted in the group. 
 
