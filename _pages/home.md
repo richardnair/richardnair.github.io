@@ -17,6 +17,12 @@ such as pairing modern computational methods with field data collection.
 
 **The group is led by Dr Richard Nair.** 
 
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_summary.jpg" alt="Research Summary" style="width:100%; max-width:1400px; display:block; margin:0 auto;">
+  <figcaption>Some of the things we are interested in as controls on biogeochemical function. Figure from Morris and Nair 2025, by scientific illustrator Dorota Paczesniak </figcaption>
+</figure>
+
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Trinity_Main_Logo.jpg" style="width: 210px">
 </figure>
