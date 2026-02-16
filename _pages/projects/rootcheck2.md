@@ -1,7 +1,7 @@
 ---
-title: "PSF Group - RootCheck Project"
+title: "PSB Group - RootCheck Project"
 layout: textlay
-excerpt: "PSF Group - RootCheck Project
+excerpt: "PSB Group - RootCheck Project"
 sitemap: false
 permalink /projects/rootcheck2/
 ---
