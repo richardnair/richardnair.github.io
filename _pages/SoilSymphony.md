@@ -10,7 +10,7 @@ permalink: /SoilSymphony/
 
 Soil Respiration ('Rs') is the second biggest global carbon flux, the sum total of the 'breathing' of soil and all the organisms within it. 
 Rs is also difficult to predict because of its complexity and the difficulty in making belowground measurements. 
-In SoilSymphony, we aim to resolve uncertainty partitioning soil respiration by pairing soil respiration measurements with automated minirhizotrons running at extremely high time frequency. 
+In SoilSymphony, we aim to resolve uncertainty partitioning soil respiration by pairing Rs measurements with automated minirhizotrons running at extremely high time frequency. 
 
 We aim to resolve multiple scientific questions 
 • Are root biomass, root growth rate, or other root traits key determinants of RS?

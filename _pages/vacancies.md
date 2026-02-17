@@ -22,7 +22,7 @@ Feel free to discuss positions with me before making a formal application by ema
 There are a variety of funding schemes available to support researchers at PhD and postdoctoral level.
 Please get in contact if you are interested in opportunities to apply with the PSB group.
 No need to send a CV or cover letter at this stage but please do indicate why you are interested in making an application with the PSB group. 
-Please note Richard will usually ignore generic/mass emailed/obvious LLM slop enquiries.
+Please note Richard will usually ignore generic/mass emailed/obvious LLM-slop enquiries.
 - [Research Ireland PhD Funding](https://www.researchireland.ie/funding/government-ireland-postgraduate/)
 - [Research Ireland Postdoctoral Funding](https://research.ie/funding-category/postdoctoral/)
 - [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
