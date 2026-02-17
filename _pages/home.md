@@ -19,7 +19,8 @@ such as pairing modern computational methods with field data collection.
 <div markdown="0">
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research_summary.jpg" alt="Research Summary" style="width:75%; max-width:1400px; display:block; margin:0 auto;">
-  <figcaption>Some of the things we are interested in as controls across scales on ecosystem function. Figure from Morris and Nair (2025), by scientific illustrator Dorota Paczesniak</figcaption>
+  <figcaption>Some of the things we are interested in as controls across scales on ecosystem function./
+   Figure from Morris and Nair (2025), by scientific illustrator Dorota Paczesniak</figcaption>
 </figure>
 </div>
 
