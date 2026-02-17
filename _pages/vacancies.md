@@ -30,7 +30,7 @@ Please note Richard will usually ignore generic/mass emailed/obvious LLM-slop en
 
 
 ### Master and Capstone projects and desk studies for TCD students
-If you are a student at TCD and are interested in doing a project in the PSN group, please drop me an email. 
+If you are a student at TCD and are interested in doing a project in the PSB group, please drop me an email. 
 I submit project titles when a call goes out but I also am happy to support interesting ideas in the general areas of plant biology (particularly belowground!), sustainability and data/technology applications to both.  
 
 
