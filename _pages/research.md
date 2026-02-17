@@ -9,7 +9,6 @@ permalink: /research/
 
 # Research
 
-
 *These are the projects that we are currently leading:*
 
 **RODEO: Root Dynamics for Ecosystem Observation** 
@@ -27,13 +26,11 @@ SoilSymphony is an exciting new project investigating control of soil respiratio
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
-
 *Members of the PSB Group are also involved in the following projects:* 
 
 **DECARB-AI**
 We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andrew Parnell, UCD) for Asrit's research.
 *Team Members: Asrit*
-![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
 **TERRAFORM:** 
 The ERC-funded [TERRAFORM](https://plantclimatelab.ie/terraform/) project (PI:Jenny McElwain, TCD) investigates how plant life has shaped Earth's habitability over millions of years, examining the evolution of plant traits and their impact on large-scale processes like the hydrological cycle and weathering over the past 300 million years. 
@@ -48,13 +45,13 @@ Richard is a working group co-lead in WG4 of the project and also collaborates o
 **RootCheck** 
 In [RootCheck]({{ site.url }}{{ site.baseurl }} /rootcheck) we worked on new tools to improve root health assessment in agricultural systems. 
 Roots are essential for sustainable and productive agriculture but in-field assesment lags well behind above-ground parts of plants. 
-We are took a stakeholder-focused approach to investigate an approachable technical solution for root management in future food systems. 
+We took a stakeholder-focused approach to investigate an approachable technical solution for root management in future food systems. 
 RootCheck was led Richard, with collaborators Saoirse Tracy (UCD), Aoife Gowan (UCD) and Gillian Young (AFBI Newgrange). \
 *RootCheck was funded via the SFI National Challenge Fund Future Food Systems call.* \
 *Team Members: Richard, Asrit, Nadja*
 
 **Other Collaborations**
-The PSB group also collaborates with engineering teaching. In particular, we have suponsored/supported [SUGAR NETWORK](https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
+The PSB group also collaborates with engineering teaching. In particular, we have sponsored/supported [SUGAR NETWORK](https://sugar-network.org/) projects which have produced tools for detecting tree health from images and tools to measure soil properties. 
 
 # Student projects
 The PSB Group hosts student projects from both Trinity College Dublin and elsewhere.

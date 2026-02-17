@@ -1,7 +1,7 @@
 ---
-title: "PSF Group Team"
+title: "PSB Group Team"
 layout: gridlay
-excerpt: "PSF Group: Team members"
+excerpt: "PSB Group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -18,8 +18,11 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
+
+
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"> --> 
+  <img src="{{ '/images/teampic/' | append: member.photo | relative_url }}" class="team-photo img-responsive" alt="{{ member.name }}">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: {{ member.email }}</i> 
   <ul style="overflow: hidden">
@@ -189,5 +192,4 @@ We host a number of Master and Bachelor students every year. Previous topics hav
 </div>
 
 <!---
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
+## Administrative Support -->

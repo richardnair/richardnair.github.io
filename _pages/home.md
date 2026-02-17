@@ -8,7 +8,6 @@ permalink: /
 
 **Research Group in Discipline of Botany Trinity College Dublin**  
 
-
 The **Plant-Soil Biogeochemistry** group at Trinity College Dublin is an interdisciplinary research group interested in the bidirectional interactions between plants and the changing global environment.
 We focus on how plants work as whole organisms, above and belowground, and intimately coupled into the soil. 
 We have special interests in phenological cycles - how living organisms change through the annual cycle - and cryptic components of ecosystems such as roots. 
@@ -18,8 +17,8 @@ such as pairing modern computational methods with field data collection.
 **The group is led by Dr Richard Nair.** 
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_summary.jpg" alt="Research Summary" style="width:100%; max-width:1400px; display:block; margin:0 auto;">
-  <figcaption>Some of the things we are interested in as controls on biogeochemical function. Figure from Morris and Nair 2025, by scientific illustrator Dorota Paczesniak </figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_summary.jpg" alt="Research Summary" style="width:75%; max-width:1400px; display:block; margin:0 auto;">
+  <figcaption>Some of the things we are interested in as controls across scales on ecosystem function. Figure from Morris and Nair (2025), by scientific illustrator Dorota Paczesniak</figcaption>
 </figure>
 
 

@@ -91,3 +91,11 @@ firstp {
     margin-right: 30px;
 }
 
+/* Team Photos standardisation */
+
+.team-photo {
+  width: 100%;
+  max-width: 250px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
