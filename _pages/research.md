@@ -29,7 +29,8 @@ We will use these data to improve representation of roots in climate models.
 
 ## SoilSymphony
 In [SoilSymphony]({{ site.url }}{{ site.baseurl }} /SoilSymphony) we are working on understanding soil respiration, the 'breathing' or release of CO2 from soils.
-We are interested in how this is controlled by growth and death of roots in natural ecosystems. We are also collaborating with artist  [Siobhan McDonald](https://www.siobhanmcdonald.com/).  
+We are interested in how this is controlled by growth and death of roots in natural ecosystems, and if by knowing the patterns of root activity we can improve prediction of this important carbon flux. 
+Our work on SoilSymphony  is collaboration with artist  [Siobhan McDonald](https://www.siobhanmcdonald.com/) .  
 
 *SoilSymphony is funded by Research Ireland as a Frontiers for the Future project from 2025 to 2029*
 *Team Members: Richard, Ian, Jason, Ryan*
