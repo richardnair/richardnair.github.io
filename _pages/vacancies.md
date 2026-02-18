@@ -1,7 +1,7 @@
 ---
 title: "Vacancies"
 layout: textlay
-excerpt: "PSN Group at Trinity College Dublin."
+excerpt: "PSB Group at Trinity College Dublin."
 sitemap: false
 permalink: /vacancies.html
 ---
@@ -19,14 +19,14 @@ permalink: /vacancies.html
 Feel free to discuss positions with me before making a formal application by emailing me. 
 
 ### Prospective Fellowships and Studentships
-There are a variety of funding schemes available to support researchers at PhD and postdoctoral level.
+There are a variety of funding schemes available to support researchers at PhD and postdoctoral level available in Ireland and internationally.
 Please get in contact if you are interested in opportunities to apply with the PSB group.
-No need to send a CV or cover letter at this stage but please do indicate why you are interested in making an application with the PSB group. 
-Please note Richard will usually ignore generic/mass emailed/obvious LLM-slop enquiries.
+No need to send a CV or cover letter at this stage but please do indicate why you are interested in making an application to work with us.
+Please note Richard will ignore generic/mass emailed/obvious LLM-slop enquiries.
 - [Research Ireland PhD Funding](https://www.researchireland.ie/funding/government-ireland-postgraduate/)
 - [Research Ireland Postdoctoral Funding](https://research.ie/funding-category/postdoctoral/)
 - [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
-- other funding schemes also exist
+- other funding schemes also exist  
 
 
 ### Master and Capstone projects and desk studies for TCD students
