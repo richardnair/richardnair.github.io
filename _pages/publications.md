@@ -1,7 +1,7 @@
 ---
-title: "PSF Group - Publications"
+title: "PSB Group - Publications"
 layout: gridlay
-excerpt: "PSF Group  -- Publications."
+excerpt: "PSB Group  -- Publications."
 sitemap: false
 permalink: /publications/
 ---
