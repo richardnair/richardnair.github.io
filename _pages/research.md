@@ -8,11 +8,8 @@ permalink: /research/
 
 # Research
 
-## Root 'Phenotyping' in Field Contexts
+Research in the PSB group focuses on root 'phenotyping' in field contexts, employing new measurement techniques, engineering and computer science alongside ecosystem ecology. We are interested in understanding unknowns in ecosystem functioniing, particularly belowground, and collaboration with researchers working both on similar problems and at other scales and fields. 
 
-## Novel measurement techniques
-
-## Unknowns in ecosystem functioning and collaboration with researchers workin at other scales
 
 # Projects
 
@@ -41,7 +38,7 @@ Our work on SoilSymphony  is collaboration with artist  [Siobhan McDonald](https
 *Members of the PSB Group are also involved in the following projects:*
 
 ## DECARB-AI:
-We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andrew Parnell, UCD) for Asrit's research.
+We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andrew Parnell, UCD), focusing on AI applications to sustainability problems, to integrate and upscale diverse environmental sensor data.
 *Team Members: Asrit*
 
 ## TERRAFORM:
