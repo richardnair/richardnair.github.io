@@ -22,8 +22,7 @@ RODEO is funded by Research Ireland via a Research Ireland-Royal Society Univers
 
 ## Progress
 
-We have been developing instruments and minimising artefacts in root measurements. We are running our first instruments in the field, and equipping observatories in remaining sites. 
-Several side projects are proceeding alongside this, validating core assumptions of our technique and tackling scaling issues.
+We have been developing instruments and minimising artefacts in root measurements. We have installed observatories in three sites, and will shortly be deploying instruments.
 
 ## Team 
 
