@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Research in the PSB group focuses on root 'phenotyping' in field contexts, employing new measurement techniques, engineering and computer science alongside ecosystem ecology. We are interested in understanding unknowns in ecosystem functioniing, particularly belowground, and collaboration with researchers working both on similar problems and at other scales and fields. 
+Research in the PSB group focuses on how plants and soils work and their interactions with climate change. We are currently particularly interested in on root 'phenotyping' in field contexts, employing new measurement techniques, engineering and computer science alongside ecosystem ecology. 
 
 
 # Projects
@@ -42,7 +42,7 @@ We have funding under the DECARB-AI Enterprise Ireland training school (PI: Andr
 *Team Members: Asrit*
 
 ## TERRAFORM:
-The ERC-funded [TERRAFORM](https://plantclimatelab.ie/terraform/) project (PI:Jenny McElwain, TCD) investigates how plant life has shaped Earth's habitability over millions of years, examining the evolution of plant traits and their impact on large-scale processes like the hydrological cycle and weathering over the past 300 million years. 
+The ERC-funded [TERRAFORM](https://plantclimatelab.ie/terraform/) project (PI:Jenny McElwain, TCD) investigates how plant life has shaped Earth's habitability over millions of years, examining the evolution of plant traits and their impact on large-scale processes like the hydrological cycle and weatheringm . 
 Through a multidisciplinary approach encompassing ecology, paleo-Earth experiments, climate modeling, and fossil plant analysis, TERRAFORM aims to quantify plants' influence on carbon, nutrient, and hydrological cycles throughout palaeotime. 
 *Richard is a collaborator on the TERRAFORM project.*
 
