@@ -43,7 +43,7 @@
   education3:
 
 - name: "Ryan Brennan"
-  photo: ryan.jiff
+  photo: ryan.jfif
   info: Research Assistant (2025 - ). 
   email: rybrenna[@]tcd.ie
   number_educ: 1
@@ -51,3 +51,11 @@
   education2: BSc Environmental Sciences (Trinity College Dublin)
   education3:
  
+ - name: "Taehyeon Lee"
+  photo: duck_blue.jpg
+  info: Research Intern (2026 - ). 
+  email: 
+  number_educ: 1
+  education1: B.A.I. & M.A.I. Electronic & Computer Engineering (ongoing, Trinity College Dublin)
+  education2: 
+  education3:
