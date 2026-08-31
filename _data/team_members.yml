@@ -42,6 +42,14 @@
   education2: BSc  Computer Science (University of Caen)
   education3:
 
+- name: "Moira Newman"
+  photo: duck_blue.jog
+  info: PhD Student (2026 - Plant Trait Ecology). 
+  email: 
+  number_educ: 1
+  education1: BA Anthropology and Biology (Amhurst College)
+  education3:
+
 - name: "Ryan Brennan"
   photo: ryan.jfif
   info: Research Assistant (2025 - ). 
@@ -52,7 +60,7 @@
   education3:
  
 - name: "Taehyeon Lee"
-  photo: duck_blue.jpg
+  photo: duck_red.jpg
   info: Research Intern (2026 - ). 
   email: 
   number_educ: 1
